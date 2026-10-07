@@ -161,15 +161,6 @@ Let's connect, learn, and secure things together!
 
 ---
 
-### 💼 Experience
-
-- **Database Trainee**, Training & Placement Cell (TPC), CSVTU — *2024 – Present*
-  Maintain and verify student and company records in Excel and SQL, keeping data accurate, confidential, and consistent.
-- **Data Handling Assistant, VT Records Project**, TPC — *2024 – Present*
-  Cleaned and structured vocational training data for reporting, and fixed incorrect or missing entries.
-- **Freelance Frontend Developer** — *Independent*
-  Built responsive websites for local gyms and collaborated with an indie Japanese student studio.
-
 ### 🎓 Education
 
 **B.Tech (Honours) in Data Science**, Chhattisgarh Swami Vivekanand Technical University (CSVTU) — *2024 – Present*
@@ -204,11 +195,6 @@ Let's connect, learn, and secure things together!
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMMY-CREATE&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
