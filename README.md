@@ -9,13 +9,10 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=cloudflarepages&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/himanshu-pandey38b929336">
+  <a href="https://www.linkedin.com/in/himanshu-pandey-38b929336/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:hp4570317@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <br/>
